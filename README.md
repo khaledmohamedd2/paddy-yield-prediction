@@ -1,4 +1,5 @@
 # 🌾 Paddy Yield Prediction
+https://paddy-yield-prediction-haqiaioqizfenezoyqqqux.streamlit.app/
 
 A machine learning web application that predicts paddy (rice) yield in Kg based on farm characteristics, agricultural inputs, and weather conditions.
 
